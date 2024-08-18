@@ -1,1 +1,3 @@
-https://github.com/arianevc/TechfriarWeek2.git
+Given a Simple car rental homepage
+
+use this link: https://arianevc.github.io/TechfriarWeek2/
